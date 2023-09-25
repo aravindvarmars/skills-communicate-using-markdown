@@ -5,4 +5,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Done with gym
+- [x] Course Completed
+- [ ] This item is not complete
 
